@@ -1,5 +1,5 @@
 # data-stories
-Portfolio page for Telling stories with data course. <br>
+Portfolio page for Telling stories with data course. </br>
 Lucas Falivene
 
 # Link to site
