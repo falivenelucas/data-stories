@@ -1,4 +1,4 @@
-# data-stories-portfolio
+# data stories portfolio
 Portfolio site for Telling stories with data class at CMU!
 
 # About me
