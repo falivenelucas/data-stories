@@ -3,7 +3,8 @@ Portfolio site for Telling stories with data class at CMU!
 
 # About me
 Hi! I am Lucas Falivene, a student in the Telling stories with data class.<br>
-Currently a second-year student of the ISPM program at Heinz College. I am also a Fulbright scholar from Argentina. <br>
+Currently a second-year student of the ISPM program (information security!) at Heinz College. I am also a Fulbright scholar from Argentina. <br>
+My major in undergrad was Business and Information Ssytems.<br>
 Regarding my future plans, I am planning to apply for a PhD program once I finish my master. I will be finishing my master by May next year! <br>
 Pronouns: he/him 
 
