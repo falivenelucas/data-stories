@@ -1,4 +1,24 @@
 # Assignment1: Visualizing government debt
 
+In this section you can find the visualizations related to the government debt assignment.</br>
+</br>
 Return to main portfolio page -> https://falivenelucas.github.io/data-stories/
 
+# Government debt bar chart 
+
+Within the following visualization we can analyze the debt to GDP ratio for each country in 2016. Following visualizations will depth in years data available.
+
+<iframe src="https://data.oecd.org/chart/65uO" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true">OECD Chart: General government debt, Total, % of GDP, Annual, 2016</iframe> 
+
+# Government debt Grid of line charts
+
+Within the following visualization we can analyze the development of the debt to GDP ratio for each country under analysis. </br>
+The scope of the data ranges between 1995 and 2016.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/3730847" data-url="https://flo.uri.sh/visualisation/3730847/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# Government debt third data visualization
+
+the student has written a few paragraphs describing their choice and what they found.
+The student explains their choice for the third data visualization, what it shows to them, and why they selected it.
+The student has included a paragraph or two about the different methods of visualization, and how they compare / contrast to one another. 
