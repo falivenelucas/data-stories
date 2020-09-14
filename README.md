@@ -19,4 +19,4 @@ Getting some tips on this will be extremely useful for anytype of future work or
 
 ### Assignment1: Visualizing government debt 
 
-[Link to Assignment page](/vizgobdebt.md)
+[Click to visualize the Assignment page](/vizgobdebt.md)
