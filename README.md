@@ -21,4 +21,4 @@ Getting some tips on this will be extremely useful for anytype of future work or
 
 [Click to visualize the Assignment page](/vizgobdebt.md)
 
-<a href="izgobdebt.md">Page 2</a>
+<iframe src="https://data.oecd.org/chart/65uO" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/65uO" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2016</a></iframe>
