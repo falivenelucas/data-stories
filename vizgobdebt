@@ -1,12 +1,14 @@
 # Assignment1: Visualizing government debt
 
 In this section you can find the visualizations related to the government debt assignment.</br>
-</br>
+All data was extracted from the public OECD's website. The OECD is the Organisation for Economic Co-operation and Development, an "an international organisation that works to build better policies for better lives" according to their about me section of their website.
+</br> </br>
 Return to main portfolio page -> https://falivenelucas.github.io/data-stories/
 
 # Government debt bar chart 
 
-Within the following visualization we can analyze the debt to GDP ratio for each country in 2016. Following visualizations will depth in years data available.
+Within the following visualization we can analyze the debt to GDP ratio for each country in 2016. </br>
+Following visualizations will depth in years data available.
 
 <iframe src="https://data.oecd.org/chart/65uO" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true">OECD Chart: General government debt, Total, % of GDP, Annual, 2016</iframe> 
 
