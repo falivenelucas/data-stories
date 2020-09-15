@@ -17,21 +17,21 @@ Getting some tips on this will be extremely useful for anytype of future work or
 
 # Portfolio
 
-## Assignment1: Visualizing government debt 
+### Assignment1: Visualizing government debt 
 
 In this section you can find the visualizations related to the government debt assignment.</br>
 All data was extracted from the public OECD's website. The OECD is the Organisation for Economic Co-operation and Development, an "an international organisation that works to build better policies for better lives" according to their about me section of their website.
 </br> </br>
 Return to main portfolio page -> https://falivenelucas.github.io/data-stories/
 
-## Government debt bar chart 
+### Government debt bar chart 
 
 Within the following visualization we can analyze the debt to GDP ratio for each country in 2016. </br>
 Following visualizations will depth in years data available.
 
 <iframe src="https://data.oecd.org/chart/65uO" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true">OECD Chart: General government debt, Total, % of GDP, Annual, 2016</iframe> 
 
-## Government debt Grid of line charts
+### Government debt Grid of line charts
 
 Within the following visualization we can analyze the development of the debt to GDP ratio for each country under analysis. </br>
 The scope of the data ranges between 1995 and 2016.</br>
@@ -39,7 +39,7 @@ The difference with the preovious visualization is that we can see now the evolu
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3730847" data-url="https://flo.uri.sh/visualisation/3730847/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Government debt third data visualization
+### Government debt third data visualization
 
 The following visualization  allows us to analyze each contry individually helping to focus the atention of the user that seeks to compare a few countries. </br>
 It shows the the development of the debt to GDP ratio for each selected country under analysis. </br>
