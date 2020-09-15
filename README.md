@@ -31,8 +31,7 @@ Following visualizations will depth in years data available.
 
 ### Government debt Grid of line charts
 
-Within the following visualization we can analyze the development of the debt to GDP ratio for each country under analysis. <br>
-The scope of the data ranges between 1995 and 2016.<br>
+Within the following visualization we can analyze the development of the debt to GDP ratio for each country under analysis. The scope of the data ranges between 1995 and 2016.<br> <br>
 The difference with the preovious visualization is that we can see now the evolution of the ratio across multiple years (rather than a single spot in time with the previous chart).
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3730847" data-url="https://flo.uri.sh/visualisation/3730847/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
