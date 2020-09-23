@@ -51,3 +51,10 @@ My intention was to create a viualization that allows the user to select multipl
 ###  Original data visualization
 
 ![alt text](https://github.com/falivenelucas/data-stories/blob/master/InSource-Cybersecurity-Graphic-for-Blog-Post-July-2017.png?raw=true)
+
+Source: https://insourcenow.com/insights/cyber-security-staffing-for-businesses/ (Extracted 9-23-2020)
+
+I am passionate about cybersecurity so I wanted to start wotking with some data visualzations related to that field. I choose precisely this visualization because the usual statistic regarding security is the number of data breaches. The graph tries to deliver that mmessage, telling the story about the impact of data breaches and their various types. This is important to know for any security professional, organizations or public policy professional as we can not manage security addecuately if we do not know whats happening and what are our major problems.
+
+Soure data of the graph: 
+![Link to excel data](https://drive.google.com/file/d/1NevMi83V0vlGvDmLMAKanICy4hY1Rc8B/view?usp=sharing)
