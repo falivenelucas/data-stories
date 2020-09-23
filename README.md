@@ -56,5 +56,34 @@ Source: https://insourcenow.com/insights/cyber-security-staffing-for-businesses/
 
 I am passionate about cybersecurity so I wanted to start wotking with some data visualzations related to that field. I choose precisely this visualization because the usual statistic regarding security is the number of data breaches. The graph tries to deliver that mmessage, telling the story about the impact of data breaches and their various types. This is important to know for any security professional, organizations or public policy professional as we can not manage security addecuately if we do not know whats happening and what are our major problems.
 
-Soure data of the graph: 
-<a href = "https://drive.google.com/file/d/1NevMi83V0vlGvDmLMAKanICy4hY1Rc8B/view?usp=sharing"> Link to excel data </a>
+Soure data of the graph: https://drive.google.com/file/d/1NevMi83V0vlGvDmLMAKanICy4hY1Rc8B/view?usp=sharing
+
+###  Process
+
+
+###  Alternative A
+
+![alt text](https://github.com/falivenelucas/data-stories/blob/master/InSource-Cybersecurity-Graphic-for-Blog-Post-July-2017.png?raw=true)
+
+
+###  Alternative B
+
+![alt text](https://github.com/falivenelucas/data-stories/blob/master/InSource-Cybersecurity-Graphic-for-Blog-Post-July-2017.png?raw=true)
+
+###  Alternative C
+
+![alt text](https://github.com/falivenelucas/data-stories/blob/master/InSource-Cybersecurity-Graphic-for-Blog-Post-July-2017.png?raw=true)
+
+###  Reviwer 1
+
+1) It´s an analysis of the evolution and trends of the different types of cyberattacks over the last decade. Providing three different visualizations that show the information in distinct ways.<br><br>
+2) It is telling me that hacking attack types are growing exponentially while the other types are decreasing in occurrence.<br><br>
+3) In the first graph the data point in the hacking dimension from 2016, is represented by a dot that is much bigger than the rest, which doesn´t make any sense and confuses the analysis. In the second graph, only the hacking type is given a percentage metric, while the others are blank and it is very hard to understand the percentage of attacks that are attributed to them. Finally, in the third graph, there is no title, so it makes the viewer unaware of what is being displayed.<br><br>
+4) The intended audiences are businesses and professionals, such as IT and Cybersecurity experts that have an interest in gaining insights and knowledge about the cyberattack's background that may be useful for them to protect their information.<br><br>
+6) First, I would analyze a greater timespan because the graphs only provide 4 years of data and it would be useful to have more data in order to understand the trends better. Secondly, I would fix the confusing aspects I mentioned before. Thirdly, I would provide predictions for the upcoming years and what the trends will be.<br>
+
+###  Reviwer 2
+
+###  Final data visualization
+
+
