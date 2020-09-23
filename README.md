@@ -63,16 +63,16 @@ Soure data of the graph: https://drive.google.com/file/d/1NevMi83V0vlGvDmLMAKanI
 
 ###  Alternative A
 
-![alt text](https://github.com/falivenelucas/data-stories/blob/master/InSource-Cybersecurity-Graphic-for-Blog-Post-July-2017.png?raw=true)
+![alt text](https://github.com/falivenelucas/data-stories/blob/master/1.jpg?raw=true)
 
 
 ###  Alternative B
 
-![alt text](https://github.com/falivenelucas/data-stories/blob/master/InSource-Cybersecurity-Graphic-for-Blog-Post-July-2017.png?raw=true)
+![alt text](https://github.com/falivenelucas/data-stories/blob/master/2.jpg?raw=true)
 
 ###  Alternative C
 
-![alt text](https://github.com/falivenelucas/data-stories/blob/master/InSource-Cybersecurity-Graphic-for-Blog-Post-July-2017.png?raw=true)
+![alt text](https://github.com/falivenelucas/data-stories/blob/master/3.jpg?raw=true)
 
 ###  Reviwer 1
 
@@ -83,6 +83,8 @@ Soure data of the graph: https://drive.google.com/file/d/1NevMi83V0vlGvDmLMAKanI
 6) First, I would analyze a greater timespan because the graphs only provide 4 years of data and it would be useful to have more data in order to understand the trends better. Secondly, I would fix the confusing aspects I mentioned before. Thirdly, I would provide predictions for the upcoming years and what the trends will be.<br>
 
 ###  Reviwer 2
+
+
 
 ###  Final data visualization
 
