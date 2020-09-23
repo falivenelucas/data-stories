@@ -63,16 +63,16 @@ Soure data of the graph: https://drive.google.com/file/d/1NevMi83V0vlGvDmLMAKanI
 
 ###  Alternative A
 
-![alt text](https://github.com/falivenelucas/data-stories/blob/master/1.jpg?raw=true)
+![alt text](https://github.com/falivenelucas/data-stories/blob/master/1a.jpg?raw=true)
 
 
 ###  Alternative B
 
-![alt text](https://github.com/falivenelucas/data-stories/blob/master/2.jpg?raw=true)
+![alt text](https://github.com/falivenelucas/data-stories/blob/master/2a.jpg?raw=true)
 
 ###  Alternative C
 
-![alt text](https://github.com/falivenelucas/data-stories/blob/master/3.jpg?raw=true)
+![alt text](https://github.com/falivenelucas/data-stories/blob/master/3a.jpg?raw=true)
 
 ###  Reviwer 1
 
