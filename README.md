@@ -54,12 +54,13 @@ My intention was to create a viualization that allows the user to select multipl
 
 Source: https://insourcenow.com/insights/cyber-security-staffing-for-businesses/ (Extracted 9-23-2020)
 
-I am passionate about cybersecurity so I wanted to start wotking with some data visualzations related to that field. I choose precisely this visualization because the usual statistic regarding security is the number of data breaches. The graph tries to deliver that mmessage, telling the story about the impact of data breaches and their various types. This is important to know for any security professional, organizations or public policy professional as we can not manage security addecuately if we do not know whats happening and what are our major problems.
+I am passionate about cybersecurity, so I wanted to start working with some data visualizations related to that field. I choose precisely this visualization because the usual statistic regarding security is the number of data breaches. The graph tries to deliver that message, telling the story about the impact of data breaches and their various types. This is important to know for any security professional, organizations, or public policy professional. We can not manage security adequately if we do not understand what is happening and our significant problems.
 
 Soure data of the graph: https://drive.google.com/file/d/1NevMi83V0vlGvDmLMAKanICy4hY1Rc8B/view?usp=sharing
 
 ###  Process
 
+I design three alternatives of improvement for the original visualization; each one highlighting a different perspective of the data story. The reviewers then will comment and choose the one they like the most and provide some recommendations for improvement.
 
 ###  Alternative A
 
@@ -84,7 +85,16 @@ Soure data of the graph: https://drive.google.com/file/d/1NevMi83V0vlGvDmLMAKanI
 
 ###  Reviwer 2
 
-
+1) This is a diagram that illustrates the number of incidents associated with different types of cyberattacks between 2013 and 2016.
+<br>
+2) It demonstrates how hacking was still the main cause for cyber incidents between 2013 and 2016, and how data in transient became more risky than insider theft by 2016.
+<br>
+3) It is quite surprising that hacking maintained its status as the highest cause for cyber incidents for 4 consecutive years, and our cybersecurity didn’t improve to minimize the effect of hacking.
+<br>
+4) Internet users, IT departments, and C-suite such as: CIO, CTO, and CFO to secure their organizations
+<br>
+5) I would try to quantify the number of incidents on the y-axis to better illustrate the risk and impact of these cyber threats.
+<br>
 
 ###  Final data visualization
 
