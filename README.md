@@ -81,20 +81,15 @@ I design three alternatives of improvement for the original visualization; each 
 2) It is telling me that hacking attack types are growing exponentially while the other types are decreasing in occurrence.<br><br>
 3) In the first graph the data point in the hacking dimension from 2016, is represented by a dot that is much bigger than the rest, which doesn´t make any sense and confuses the analysis. In the second graph, only the hacking type is given a percentage metric, while the others are blank and it is very hard to understand the percentage of attacks that are attributed to them. Finally, in the third graph, there is no title, so it makes the viewer unaware of what is being displayed.<br><br>
 4) The intended audiences are businesses and professionals, such as IT and Cybersecurity experts that have an interest in gaining insights and knowledge about the cyberattack's background that may be useful for them to protect their information.<br><br>
-6) First, I would analyze a greater timespan because the graphs only provide 4 years of data and it would be useful to have more data in order to understand the trends better. Secondly, I would fix the confusing aspects I mentioned before. Thirdly, I would provide predictions for the upcoming years and what the trends will be.<br>
+5) First, I would analyze a greater timespan because the graphs only provide 4 years of data and it would be useful to have more data in order to understand the trends better. Secondly, I would fix the confusing aspects I mentioned before. Thirdly, I would provide predictions for the upcoming years and what the trends will be.<br>
 
 ###  Reviwer 2
 
-1) This is a diagram that illustrates the number of incidents associated with different types of cyberattacks between 2013 and 2016.
-<br>
-2) It demonstrates how hacking was still the main cause for cyber incidents between 2013 and 2016, and how data in transient became more risky than insider theft by 2016.
-<br>
-3) It is quite surprising that hacking maintained its status as the highest cause for cyber incidents for 4 consecutive years, and our cybersecurity didn’t improve to minimize the effect of hacking.
-<br>
-4) Internet users, IT departments, and C-suite such as: CIO, CTO, and CFO to secure their organizations
-<br>
-5) I would try to quantify the number of incidents on the y-axis to better illustrate the risk and impact of these cyber threats.
-<br>
+1) This is a diagram that illustrates the number of incidents associated with different types of cyberattacks between 2013 and 2016. <br><br>
+2) It demonstrates how hacking was still the main cause for cyber incidents between 2013 and 2016, and how data in transient became more risky than insider theft by 2016.<br><br>
+3) It is quite surprising that hacking maintained its status as the highest cause for cyber incidents for 4 consecutive years, and our cybersecurity didn’t improve to minimize the effect of hacking.<br><br>
+4) Internet users, IT departments, and C-suite such as: CIO, CTO, and CFO to secure their organizations<br><br>
+5) I would try to quantify the number of incidents on the y-axis to better illustrate the risk and impact of these cyber threats. <br>
 
 ###  Final data visualization
 
