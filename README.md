@@ -45,3 +45,9 @@ This visulization eases the noise of too much data and allows the user to easily
 My intention was to create a viualization that allows the user to select multiple countriwes at a time. For that I tried have to radically change the dataset. However, I failed to find a non time-consuming solution.<br>
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3739337" data-url="https://flo.uri.sh/visualisation/3739337/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# Assignment 3 & 4: Critique by Design
+
+###  Original data visualization
+
+![alt text](https://github.com/falivenelucas/data-stories/blob/master/InSource-Cybersecurity-Graphic-for-Blog-Post-July-2017.png?raw=true)
