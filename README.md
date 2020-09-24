@@ -97,15 +97,17 @@ I design three alternatives of improvement for the original visualization; each 
 2) Data breaches caused by hacking techniques are the most common. Besides, the frequency of this type of data breach has an increasing tendency.<br><br>
 3) I wonder what happened on 2015 when Inside theft and hacking had similar values. Scale on Y axis would help to get the proportions. br><br>
 4) Executives who need to understand the growing importance of Information Security<br><br>
-5) Include scale on Y axis. nclude “Others” line br>
+5) Include scale on Y axis. Include “Others” line <br>
 
 ###  Final data visualization
 
-I learn a few things about the critiques (readers have trouble understunding some aspects of the graphs and absorbing the story behind the data) and made me do the following changes:
+I learn a few things about the critiques (readers have trouble understanding some aspects of the graphs and absorbing the story behind the data) and made me do the following changes:
 - Update Y-axis and putting numbers to scale.
-- 
+- Adding the title with some description oriented to alternative A.
+- Not taking the prediction recommendation as I do not have the means to estimate future trends correctly.
+- Provided more data years as recommended to give a clearer picture.
 
-I know attemp to only show the main story: the main security incident types and their evolution in time.
+I attempt only to show the main story: the main security incident types and their time evolution. Alternative A was identified as the best solution, so changes and improvements were made to that sketch. The final visualization is included below.
 
 
-![alt text](https://github.com/falivenelucas/data-stories/blob/master/2a.jpg?raw=true)
+<div class="flourish-embed flourish-chart" data-src="visualisation/3821795" data-url="https://flo.uri.sh/visualisation/3821795/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
