@@ -37,34 +37,34 @@ What can we do to stop this? The objective here is to give the audience some qui
 
 # Initial sketches
 
-![alt text](https://github.com/falivenelucas/data-stories/blob/master/a.jpg?raw=true)
+![alt text](https://github.com/falivenelucas/data-stories/blob/master/a.jpeg?raw=true)
 
-![alt text](https://github.com/falivenelucas/data-stories/blob/master/b.jpg?raw=true)
+![alt text](https://github.com/falivenelucas/data-stories/blob/master/b.jpeg?raw=true)
 
-![alt text](https://github.com/falivenelucas/data-stories/blob/master/d.jpg?raw=true)
+![alt text](https://github.com/falivenelucas/data-stories/blob/master/d.jpeg?raw=true)
 
-![alt text](https://github.com/falivenelucas/data-stories/blob/master/e.jpg?raw=true)
+![alt text](https://github.com/falivenelucas/data-stories/blob/master/e.jpeg?raw=true)
 
-![alt text](https://github.com/falivenelucas/data-stories/blob/master/c.jpg?raw=true)
+![alt text](https://github.com/falivenelucas/data-stories/blob/master/c.jpeg?raw=true)
 
 
 # The data
 
 As there is not one agency or organziation tahat has all the data related to the problem under analysis I wil usea a variatey of reliable sources to agegate the different perspectives over the issue. Some of the sources under analysis will be:
 
-- Surveys results from pewresearch.org
+- Surveys results from pewresearch.org <br>
 https://www.pewresearch.org/internet/2015/05/20/americans-attitudes-about-privacy-security-and-surveillance/
 https://www.pewresearch.org/internet/2019/11/15/americans-and-privacy-concerned-confused-and-feeling-lack-of-control-over-their-personal-information/
-
-- Data form various cybersecurity firms
+<br>
+- Data form various cybersecurity firms<br>
 https://digitalguardian.com/blog/uncovering-password-habits-are-users-password-security-habits-improving-infographic
 https://www.varonis.com/blog/data-breach-literacy-survey/
 https://www.ifsecglobal.com/cyber-security/infographic-cyber-security-breaches-survey-2020-released/
-
-- Statista
+<br>
+- Statista<br>
 https://www.statista.com/statistics/273550/data-breaches-recorded-in-the-united-states-by-number-of-breaches-and-records-exposed/
-
-- Own generated data
+<br>
+- Own generated data<br>
 I will try to add data from an ongoing research project from another course. However, this will be subjected to the IRB aprobal. The final project delivery does not exclusively depen on this data but can rather be benefit of it.
 
 # Method and medium
