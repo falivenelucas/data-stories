@@ -48,3 +48,4 @@ Users tend to reuse passwords which makes credential stuffers' work an easy task
   
 # References
 
+Falivene, Beltran Vazques, Bin Oiad, & Imran. (2020). Final project topic proposal.
