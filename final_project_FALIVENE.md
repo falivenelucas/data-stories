@@ -55,15 +55,18 @@ As there is not one agency or organziation tahat has all the data related to the
 - Surveys results from pewresearch.org <br>
 https://www.pewresearch.org/internet/2015/05/20/americans-attitudes-about-privacy-security-and-surveillance/
 https://www.pewresearch.org/internet/2019/11/15/americans-and-privacy-concerned-confused-and-feeling-lack-of-control-over-their-personal-information/
-<br>
+
+
 - Data form various cybersecurity firms <br>
 https://digitalguardian.com/blog/uncovering-password-habits-are-users-password-security-habits-improving-infographic
 https://www.varonis.com/blog/data-breach-literacy-survey/
 https://www.ifsecglobal.com/cyber-security/infographic-cyber-security-breaches-survey-2020-released/
-<br>
+
+
 - Statista <br>
 https://www.statista.com/statistics/273550/data-breaches-recorded-in-the-united-states-by-number-of-breaches-and-records-exposed/
-<br>
+
+
 - Own generated data <br>
 I will try to add data from an ongoing research project from another course. However, this will be subjected to the IRB aprobal. The final project delivery does not exclusively depen on this data but can rather be benefit of it.
 
