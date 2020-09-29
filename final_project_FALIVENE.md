@@ -36,13 +36,19 @@ What can we do to stop this? The objective here is to give the audience some qui
 
 # Initial sketches
 
+### Setup
+
 ![alt text](https://github.com/falivenelucas/data-stories/blob/master/a.jpeg?raw=true)
+
+### Conflict
 
 ![alt text](https://github.com/falivenelucas/data-stories/blob/master/d.jpeg?raw=true)
 
 ![alt text](https://github.com/falivenelucas/data-stories/blob/master/e.jpeg?raw=true)
 
 ![alt text](https://github.com/falivenelucas/data-stories/blob/master/b.jpeg?raw=true)
+
+### Resolution and call to action
 
 ![alt text](https://github.com/falivenelucas/data-stories/blob/master/c.jpeg?raw=true)
 
