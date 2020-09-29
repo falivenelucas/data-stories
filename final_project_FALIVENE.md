@@ -3,7 +3,7 @@ Return to main site -> https://falivenelucas.github.io/data-stories/
 
 # Final project page
 
-This is the final project page for the Teeling stories with data course for Lucas Falivene.
+This is the final project page for the Telling stories with data course for Lucas Falivene.
 
 # Outline
 
@@ -27,12 +27,13 @@ The idea in this step is to try to get the audience gasp an idea pf the amount o
 
 ### Conflict
 
-The main point of this section will be to make realize the audience that they all use passwords and that they could have been or be potential victims. Moreover, I will try to focus on the potential consequencies and impacts.
+The main point of this section will be to make realize the audience that they all use passwords and that they could have been or be potential victims (it is a major generalized trend). Moreover, I will try to focus on the potential consequencies and impacts.
 
-Users tend to reuse passwords which makes credential stuffers' work an easy task. What could happen if we reuse passwords and are victims of credential stuffing? For example if Joe
+Users tend to reuse passwords which makes credential stuffers' work an easy task. What could happen if we reuse passwords and are victims of credential stuffing? For example, Joe uses the same password for his bank, Netflix, CompanyX and Facebook account. CompanyX lately suffered a majora data breach that exposed more than 256 millon user's emails and passwords, including Joe's credentials. Now, hackers can use this leaked information to "stuff" Joe and acess his Bank, Netflix and Facebook account as the email and password nedded for those platforms are already known to them. 
 
 ### Resolution and call to action
 
+What can we do to stop this? The objective here is to give the audience some quick call to actions that can help to fight back this cybercriminal activity.
 
 # Initial sketches
 
