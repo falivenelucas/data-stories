@@ -1,4 +1,3 @@
-
 Return to main site -> https://falivenelucas.github.io/data-stories/
 
 # Final project page
@@ -9,8 +8,8 @@ This is the final project page for the Telling stories with data course for Luca
 
 ### Final project Topic
 
-The topic of the project will try to answer the following question: should we even care about passwords?
-I am interested in showing the credential stuffing problem, its consequences on users and how can we all try to fight back cybercriminals.
+The project’s topic will try to answer the following question: should we even care about passwords?
+I am interested in showing the credential stuffing problem, its consequences on users, and how we can all try to fight back cybercriminals.
 
 ### Background information
 
@@ -21,15 +20,15 @@ The criminal methodology of credential stuffing "benefits from previous cyberatt
 
 ### Setup
 
-Leaked passwords are everywhere. Dark web sites, underground forums, credential stuffing websites, pastebin alike sites and even in social media pages, profiles and groups. There is agrat amount of evidence at plain sight that credential stuffing is a grave problem. However, users still get hacked periodically. Solutions tend to be missing in this area.
+Leaked passwords are everywhere. Dark web sites, underground forums, credential stuffing websites, Pastebin alike sites, and even social media pages, profiles, and groups. There is a tremendous amount of evidence at plain sight that credential stuffing is a grave problem. However, users still get hacked periodically. Solutions tend to be missing in this area.
 
-The idea in this step is to try to get the audience gasp an idea pf the amount of credentials leaked everyday. The pbject will be to comunicate the dimension of the problem.
+The idea in this step is to try to get the audience to grasp an idea of the number of credentials leaked every day. The project will be to communicate the dimension of the problem.
 
 ### Conflict
 
-The main point of this section will be to make realize the audience that they all use passwords and that they could have been or be potential victims (it is a major generalized trend). Moreover, I will try to focus on the potential consequencies and impacts.
+This section’s main point will be to make the audience realize that they all use passwords and that they could have been or been potential victims (it is a major generalized trend). Moreover, I will try to focus on the possible consequences and impacts.
 
-Users tend to reuse passwords which makes credential stuffers' work an easy task. What could happen if we reuse passwords and are victims of credential stuffing? For example, Joe uses the same password for his bank, Netflix, CompanyX and Facebook account. CompanyX lately suffered a majora data breach that exposed more than 256 millon user's emails and passwords, including Joe's credentials. Now, hackers can use this leaked information to "stuff" Joe and acess his Bank, Netflix and Facebook account as the email and password nedded for those platforms are already known to them. 
+Users tend to reuse passwords, which make credential stuffers' work an easy task. What could happen if we reuse passwords and are victims of credential stuffing? For example, Joe uses the same password for his bank, Netflix, CompanyX, and Facebook account. CompanyX lately suffered a significant data breach that exposed more than 256 million users’ emails and passwords, including Joe's credentials. Now, hackers can use this leaked information to "stuff" Joe and access his Bank, Netflix, and Facebook account as the email and password needed for those platforms are already known to them. 
 
 ### Resolution and call to action
 
@@ -50,7 +49,7 @@ What can we do to stop this? The objective here is to give the audience some qui
 
 # The data
 
-As there is not one agency or organziation tahat has all the data related to the problem under analysis I wil usea a variatey of reliable sources to agegate the different perspectives over the issue. Some of the sources under analysis will be:
+As there is no agency or organization that, with all the data related to the problem under analysis, I will use various reliable sources to aggregate the different perspectives over the issue. Some of the sources under examination will be:
 
 - Surveys results from pewresearch.org <br>
 https://www.pewresearch.org/internet/2015/05/20/americans-attitudes-about-privacy-security-and-surveillance/
@@ -68,12 +67,12 @@ https://www.statista.com/statistics/273550/data-breaches-recorded-in-the-united-
 
 
 - Own generated data <br>
-I will try to add data from an ongoing research project from another course. However, this will be subjected to the IRB aprobal. The final project delivery does not exclusively depen on this data but can rather be benefit of it.
+I will try to add data from an ongoing research project from another course. However, this will be subjected to IRB approval. The final project delivery does not exclusively depend on this data but can rather be beneficial to it.
 
 # Method and medium
 
-I will use Shorthand to present all the materials for hte final project. I will use various tools to create the visualizations that I willl later add on Shorthand.
-The first phase will be the discovery, that it is almost done - as I have already identified the sources of data and what draft visualizations I can create. Second step will be to start playing around eith the visualizations and trying to get reviews about them in order to improve them. Lastly, all materials will be centralize in Shorthand and the story will be develop with that platform.
+I will use Shorthand to present all the materials for the final project. I will use various tools to create the visualizations that I will later add to Shorthand.
+The first phase will be the discovery, that it is almost done - as I have already identified the sources of data and what draft visualizations I can create. The second step will be to start playing around with the visualizations and getting reviews about them to improve them. Lastly, all materials will be centralized in Shorthand, and the story will be developed with that platform.
   
 # References
 
