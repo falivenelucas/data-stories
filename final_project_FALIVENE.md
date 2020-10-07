@@ -103,11 +103,11 @@ The first phase will be the discovery, that it is almost done - as I have alread
 ### User Research Protocol
 I hope to first find if the reviewers understand the main story behind my visualizations. I will try to target a general audience that does not have any information security background to make sure the story is understandable by any person. I will contact friends that I know are general user internets without a clear specialization on security. Moreover, just for the sake of having a control review I will contact one known reviewer with security expertise. The following are the questions I sent to the reviewers:
 
-1) Can you tell me what you think this is?
-2) Can you describe to me what this is telling you?
-3) Is there anything you find surprising or confusing?
-4)  How do you fell after seeing this? It makes you wonder of think something?
-5) Who do you think is the intended audience for this?
+1) Can you tell me what you think this is?  <br>
+2) Can you describe to me what this is telling you?  <br>
+3) Is there anything you find surprising or confusing?  <br>
+4)  How do you fell after seeing this? It makes you wonder of think something?  <br>
+5) Who do you think is the intended audience for this?  <br>
 6)  Is there anything you would change or do differently? Did you find something difficult to understand or that may be difficult for others to understand?
 
 ### Reviewers answers
