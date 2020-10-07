@@ -131,7 +131,7 @@ Age: 30s - Gender: Male - Security expertise: NO
 -	I would focus more on password leakages rather than mixing general breaches with password breaches.
 
 #### Reviewer 3
-Age: - Gender: Female - Security expertise: NO
+Age: 20s - Gender: Female - Security expertise: NO
 
 - It tells me although the majority of people say they care about their passwords, they don't trust the companies to which they give this information. In addition, 70% of them suffer data breaches but this didn't cause a reduction in the reuse of  passwords, or an increase in password strength; the same happens with the rate of
 password change. Moreover, more than half of those 70% never checked if they were victims and don't know how to solve it. Furthermore, it is later shown that, 
