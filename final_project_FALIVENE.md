@@ -79,6 +79,66 @@ I will try to add data from an ongoing research project from another course. How
 
 I will use Shorthand to present all the materials for the final project. I will use various tools to create the visualizations that I will later add to Shorthand.
 The first phase will be the discovery, that it is almost done - as I have already identified the sources of data and what draft visualizations I can create. The second step will be to start playing around with the visualizations and getting reviews about them to improve them. Lastly, all materials will be centralized in Shorthand, and the story will be developed with that platform.
+
+# Final Project part II
+
+
+### Storyboard
+
+### Wireframes
+Student has created a storyboard that lays out the necessary progression through sketches and / or wireframes for their project. The sketches are of sufficient number and an effective summary of the story the student wishes to tell and are logically presented.
+
+### User Research Protocol
+I hope to first find if the reviewers understand the main story behind my visualizations. I will try to target a general audience that does not have any information security background to make sure the story is understandable by any person. I will contact friends that I know are general user internets without a clear specialization on security. Moreover, just for the sake of having a control review I will contact one known reviewer with security expertise. The following are the questions I sent to the reviewers:
+1) Can you tell me what you think this is?
+2) Can you describe to me what this is telling you?
+3) Is there anything you find surprising or confusing?
+4)  How do you fell after seeing this? It makes you wonder of think something?
+5) Who do you think is the intended audience for this?
+6)  Is there anything you would change or do differently? Did you find something difficult to understand or that may be difficult for others to understand?
+
+### Reviewers answers
+#### Reviewer 1
+Age: 20s - Gender: Male - Security expertise: NO
+	It´s an analysis of the cyberattack landscape, showing up statistics and trends about data breaches and people´s attitudes towards their information security. It provides different visualizations that show the information in distinct ways and transmit insights about today´s cybersecurity risks.
+	One thing that surprised me is that only 30% of people are not using a password manager, that´s a very low number and a good indicator. And the one thing I found confusing is certain graphs that lack a Y-axis and numbers, which prevent me from analyzing the graphs in a quantitative way and understand more clearly the trends.
+	I feel more vulnerable, more conscious of the cybersecurity risks I could be exposed to.
+	Everyone, especially those who don´t have much knowledge on the subject.
+	I would include a Y-axis and metrics in certain graphics that don´t have them, such as the number of breaches over time graph and the number of breaches by age. Everything is very clear and transmits knowledge in a very simple and direct way, making it easy for everyone to understand it.
+
+#### Reviewer 2
+Age: 30s - Gender: Male - Security expertise: NO
+	This is showing the problem that privacy has with password management.
+	First part is about data breaches in general, but it is trying to support the specific password problem. Data collected, accessed and exposed are not only passwords.
+	Differential approaches based on age would be useful for policy and control developments.
+	Policymakers
+	I would focus more on password leakages rather than mixing general breaches with password breaches.
+
+#### Reviewer 3
+Age: - Gender: Female - Security expertise: NO
+
+
+#### Reviewer 4
+Age: 30s - Gender: Male - Security expertise: YES
+	This story is trying to understand people’s perception of privacy in comparison to their behavior (known as privacy paradox).
+	The surprising matter in this story is the high percentage of participants who don’t know how to act if they have a data breach. Also, it is quite alarming that 64% use weak passwords.
+	After seeing this story, I feel that people’s attitude towards data privacy must be corrected. Also, I believe that all websites will need to enforce a strong password policy by default.
+	General public, people interested in privacy and information security.
+	I might delete the age demographics as it doesn’t give a clear indication if it’s an age problem, no clear correlation about age and the bar values. Perhaps if the bar values had a legend describing what it is, it would’ve been a clearer figure.
+
+### highlights and changes: what I learned form the feedback
+	I decided to remove the age demographics visualization as it is indeed confusing, does not gives that much information of the issue and will take time off from the essential during the final presentation.
+	I make all the descriptions shorter and visualizations bigger to ease comprehension and lower the level of expertise the audience need to understand the story.
+	I decided to change some of the visualizations given the reviewers feedback to be similar to others that I included before to again ease the understanding of the audience.
+
+### Final data visualizations
+<div class="infogram-embed" data-id="b5b98bfd-9a22-4eb9-9ca3-b6649cc3c70c" data-type="interactive" data-title="Infographic Modern"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/b5b98bfd-9a22-4eb9-9ca3-b6649cc3c70c" style="color:#989898!important;text-decoration:none!important;" target="_blank">Infographic Modern</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+### Call to action
+1) Do not reuse passwords
+2) Use a password Manager
+3) Sign up for alerts (in less than 15 seconds!)
+
   
 # References
 
