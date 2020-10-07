@@ -133,9 +133,20 @@ Age: 30s - Gender: Male - Security expertise: NO
 #### Reviewer 3
 Age: - Gender: Female - Security expertise: NO
 
+- It tells me although the majority of people say they care about their passwords, they don't trust the companies to which they give this information. In addition, 70% of them suffer data breaches but this didn't cause a reduction in the reuse of  passwords, or an increase in password strength; the same happens with the rate of
+password change. Moreover, more than half of those 70% never checked if they were victims and don't know how to solve it. Furthermore, it is later shown that, 
+contrary to popular belief, age is not relevant to this problem. People seem to value being in control of who can get information about oneself
+and that most of them do not trust that companies would notify them should their data be compromised It is also shown that data breaches and exposed. Also, that only 30% DON'T use a password manager
+- Is there anything you find surprising or confusing? No
+- How do you fell after seeing this? It makes you wonder of think something? actually it makes me wonder why people say they care about privacy, but their actions tell us otherwise, is it because it is to much work? ... probably
+- Who do you think is the intended audience for this? it could be anyone, i mean it certainly would be better if everyone knows this, but those who design software security should have special care with this data as it can give the key ideas to come up with a new way of doing things in which  user negligence wouldn't be in the equation.
+- Is there anything you would change or do differently? Did you find something difficult to understand or that may be difficult for others to understand?
+yes are the two pie charts after 7 out of 10 suffer a data breach out of the 70% or the one of those who don't know how to solve it is from those who did check if they were victims? I think it could be specified better
+
 
 #### Reviewer 4
 Age: 30s - Gender: Male - Security expertise: YES
+
 -	This story is trying to understand people’s perception of privacy in comparison to their behavior (known as privacy paradox).
 -	The surprising matter in this story is the high percentage of participants who don’t know how to act if they have a data breach. Also, it is quite alarming that 64% use weak passwords.
 -	After seeing this story, I feel that people’s attitude towards data privacy must be corrected. Also, I believe that all websites will need to enforce a strong password policy by default.
