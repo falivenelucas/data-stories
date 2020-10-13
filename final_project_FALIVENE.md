@@ -170,11 +170,11 @@ Age: 30s - Gender: Male - Security expertise: YES
 3) Sign up for alerts (in less than 15 seconds!) - Here I will reference the audience to the platform: https://haveibeenpwned.com/  <br>
 
 # Part III
-### intended audience
+### Intended audience
 The story targets general users of internet and computers. The idea is not to communicate any technical knowledge whatsoever but try to convey a general security problem that affects any user on the internet. For the latter, I try getting some reviewers without security or technology knowledge - to gauge if they could comprehend the story - and some security-oriented reviewers- to gauge how complex they tough the story was.
 In order to make all of this work, I only concentrate on the main topic: why are passwords necessary? And how can we manage them securely and effectively? Avoiding other tangent topics, subjects or technical argon is a must in order to convey the story in just 2 minutes.
 
-### work summary
+### Work summary
 I started searching and researching about the topic for another course project some weeks ago. As I thought it was interesting enough to develop some data visualizations to show the magnitude and scope of the issue, I selected it to be the topic for the final project.
 Design decision focus on trying to communicate the magnitude of the problem to the audience. How many data breaches there are, how they impact the common user and how common users usually behave to this. It is there some behavior that can be changed to solve this generally spread issue? How do users use passwords? How do they manage them? Is this working?
 After some reviews I noticed that I was missing on the story some impact of the issue that could move the audience to act. Without this, the introduction and the call to action were missing a connection. I learned to also include the impact that the audience could relate more in order to tell them that they could also be affected.
@@ -187,18 +187,18 @@ Link to shorthand:
 
 Falivene, Beltran Vazques, Bin Oiad, & Imran. (2020). Final project topic proposal.
 
-Surveys results from pewresearch.org:
+Surveys results from pewresearch.org:<br>
 https://www.pewresearch.org/internet/2015/05/20/americans-attitudes-about-privacy-security-and-surveillance/ https://www.pewresearch.org/internet/2019/11/15/americans-and-privacy-concerned-confused-and-feeling-lack-of-control-over-their-personal-information/
 
-Data form various cybersecurity firms:
+Data form various cybersecurity firms:<br>
 https://digitalguardian.com/blog/uncovering-password-habits-are-users-password-security-habits-improving-infographic https://www.varonis.com/blog/data-breach-literacy-survey/ https://www.ifsecglobal.com/cyber-security/infographic-cyber-security-breaches-survey-2020-released/
 
-Statista:
+Statista:<br>
 https://www.statista.com/statistics/273550/data-breaches-recorded-in-the-united-states-by-number-of-breaches-and-records-exposed/
 
-haveibeenpwned platform
+haveibeenpwned platform <br>
 https://haveibeenpwned.com/ 
 
-Lastpass platform
+Lastpass platform <br>
 https://www.lastpass.com/
 
