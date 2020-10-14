@@ -181,7 +181,7 @@ After some reviews I noticed that I was missing on the story some impact of the 
 The introduction will set the current environment of the “credential stuffing” world, then some consequences and impacts on users will make the way towards the call to action.
 
 ### Shorthand link (Link to final data story)
-Link to shorthand: 
+Link to shorthand: https://carnegiemellon.shorthandstories.com/-privacy-on-the-line-/index.html
   
 # References
 
