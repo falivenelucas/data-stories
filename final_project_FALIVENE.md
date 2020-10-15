@@ -188,7 +188,8 @@ Or use the URL: https://carnegiemellon.shorthandstories.com/-privacy-on-the-line
 Falivene, Beltran Vazques, Bin Oiad, & Imran. (2020). Final project topic proposal.
 
 Surveys results from pewresearch.org:<br>
-[Link to data](https://www.pewresearch.org/internet/2015/05/20/americans-attitudes-about-privacy-security-and-surveillance/ https://www.pewresearch.org/internet/2019/11/15/americans-and-privacy-concerned-confused-and-feeling-lack-of-control-over-their-personal-information/)
+[Link to data](https://www.pewresearch.org/internet/2015/05/20/americans-attitudes-about-privacy-security-and-surveillance/)<br>
+[Link to data](https://www.pewresearch.org/internet/2019/11/15/americans-and-privacy-concerned-confused-and-feeling-lack-of-control-over-their-personal-information/)
 
 Data form various cybersecurity firms:<br>
 [Link to data](https://digitalguardian.com/blog/uncovering-password-habits-are-users-password-security-habits-improving-infographic)<br>
