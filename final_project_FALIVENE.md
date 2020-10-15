@@ -180,24 +180,25 @@ After some reviews I noticed that I was missing on the story some impact of the 
 The introduction will set the current environment of the “credential stuffing” world, then some consequences and impacts on users will make the way towards the call to action.
 
 ### Shorthand link (Link to final data story)
-Link to shorthand: https://carnegiemellon.shorthandstories.com/-privacy-on-the-line-/index.html
+[Link to shorthand] (https://carnegiemellon.shorthandstories.com/-privacy-on-the-line-/index.html) <br><br>
+Or use the URL: https://carnegiemellon.shorthandstories.com/-privacy-on-the-line-/index.html
   
 # References
 
 Falivene, Beltran Vazques, Bin Oiad, & Imran. (2020). Final project topic proposal.
 
 Surveys results from pewresearch.org:<br>
-https://www.pewresearch.org/internet/2015/05/20/americans-attitudes-about-privacy-security-and-surveillance/ https://www.pewresearch.org/internet/2019/11/15/americans-and-privacy-concerned-confused-and-feeling-lack-of-control-over-their-personal-information/
+[Link to data](https://www.pewresearch.org/internet/2015/05/20/americans-attitudes-about-privacy-security-and-surveillance/ https://www.pewresearch.org/internet/2019/11/15/americans-and-privacy-concerned-confused-and-feeling-lack-of-control-over-their-personal-information/)
 
 Data form various cybersecurity firms:<br>
-https://digitalguardian.com/blog/uncovering-password-habits-are-users-password-security-habits-improving-infographic https://www.varonis.com/blog/data-breach-literacy-survey/ https://www.ifsecglobal.com/cyber-security/infographic-cyber-security-breaches-survey-2020-released/
-
+[Link to data] (https://digitalguardian.com/blog/uncovering-password-habits-are-users-password-security-habits-improving-infographic https://www.varonis.com/blog/data-breach-literacy-survey/ https://www.ifsecglobal.com/cyber-security/infographic-cyber-security-breaches-survey-2020-released/)
+<br><br>
 Statista:<br>
-https://www.statista.com/statistics/273550/data-breaches-recorded-in-the-united-states-by-number-of-breaches-and-records-exposed/
-
+[Data breach data](https://www.statista.com/statistics/273550/data-breaches-recorded-in-the-united-states-by-number-of-breaches-and-records-exposed/)
+<br><br>
 haveibeenpwned platform <br>
-https://haveibeenpwned.com/ 
+[Lastpass platform](https://haveibeenpwned.com/) <br> <br>
 
 Lastpass platform <br>
-https://www.lastpass.com/
+[Lastpass platform](https://www.lastpass.com/)
 
