@@ -1,8 +1,4 @@
-
-[Final project page](/final_project_FALIVENE.md)
-
 [Return to main site](https://falivenelucas.github.io/data-stories/)
--> 
 
 # Final project page
 
@@ -55,7 +51,6 @@ What can we do to stop this? The objective here is to give the audience some qui
 ### Resolution and call to action
 
 ![alt text](https://github.com/falivenelucas/data-stories/blob/master/c.jpeg?raw=true)
-
 
 # The data
 
