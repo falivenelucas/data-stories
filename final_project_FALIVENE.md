@@ -191,7 +191,9 @@ Surveys results from pewresearch.org:<br>
 [Link to data](https://www.pewresearch.org/internet/2015/05/20/americans-attitudes-about-privacy-security-and-surveillance/ https://www.pewresearch.org/internet/2019/11/15/americans-and-privacy-concerned-confused-and-feeling-lack-of-control-over-their-personal-information/)
 
 Data form various cybersecurity firms:<br>
-[Link to data] (https://digitalguardian.com/blog/uncovering-password-habits-are-users-password-security-habits-improving-infographic https://www.varonis.com/blog/data-breach-literacy-survey/ https://www.ifsecglobal.com/cyber-security/infographic-cyber-security-breaches-survey-2020-released/)
+[Link to data](https://digitalguardian.com/blog/uncovering-password-habits-are-users-password-security-habits-improving-infographic)<br>
+[Link to data](https://www.varonis.com/blog/data-breach-literacy-survey/)<br>
+[Link to data](https://www.ifsecglobal.com/cyber-security/infographic-cyber-security-breaches-survey-2020-released/)
 <br><br>
 Statista:<br>
 [Data breach data](https://www.statista.com/statistics/273550/data-breaches-recorded-in-the-united-states-by-number-of-breaches-and-records-exposed/)
