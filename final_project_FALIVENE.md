@@ -54,21 +54,21 @@ What can we do to stop this? The objective here is to give the audience some qui
 
 # The data
 
-As there is no agency or organization that, with all the data related to the problem under analysis, I will use various reliable sources to aggregate the different perspectives over the issue. Some of the sources under examination will be:
+As there is no agency or organization that, with all the data related to the problem under analysis, I will use various reliable sources to aggregate the different perspectives over the issue. Some of the sources under examination will be:<br>
 
 - Surveys results from pewresearch.org <br>
-https://www.pewresearch.org/internet/2015/05/20/americans-attitudes-about-privacy-security-and-surveillance/
-https://www.pewresearch.org/internet/2019/11/15/americans-and-privacy-concerned-confused-and-feeling-lack-of-control-over-their-personal-information/
+[Link to the data](https://www.pewresearch.org/internet/2015/05/20/americans-attitudes-about-privacy-security-and-surveillance/)<br>
+[Link to the data](https://www.pewresearch.org/internet/2019/11/15/americans-and-privacy-concerned-confused-and-feeling-lack-of-control-over-their-personal-information/)<br>
 
 
 - Data form various cybersecurity firms <br>
-https://digitalguardian.com/blog/uncovering-password-habits-are-users-password-security-habits-improving-infographic
-https://www.varonis.com/blog/data-breach-literacy-survey/
-https://www.ifsecglobal.com/cyber-security/infographic-cyber-security-breaches-survey-2020-released/
+[Link to the data](https://digitalguardian.com/blog/uncovering-password-habits-are-users-password-security-habits-improving-infographic)<br>
+[Link to the data](https://www.varonis.com/blog/data-breach-literacy-survey/)<br>
+[Link to the data](https://www.ifsecglobal.com/cyber-security/infographic-cyber-security-breaches-survey-2020-released/)<br>
 
 
 - Statista <br>
-https://www.statista.com/statistics/273550/data-breaches-recorded-in-the-united-states-by-number-of-breaches-and-records-exposed/
+[Link to the data](https://www.statista.com/statistics/273550/data-breaches-recorded-in-the-united-states-by-number-of-breaches-and-records-exposed/)<br>
 
 
 - Own generated data <br>
@@ -166,7 +166,7 @@ Age: 30s - Gender: Male - Security expertise: YES
 
 1) Do not reuse passwords <br>
 2) Use a password Manager  <br>
-3) Sign up for alerts (in less than 15 seconds!) - Here I will reference the audience to the platform: https://haveibeenpwned.com/  <br>
+3) Sign up for alerts (in less than 15 seconds!) - Here I will reference the audience to the platform: [have I been pwned](https://haveibeenpwned.com/)  <br>
 
 # Part III
 ### Intended audience
